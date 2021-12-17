@@ -21,4 +21,5 @@
 
 
 // --
+#define _NAT_STATICLINKED
 #include "NeArxTest\TestCore.h"
